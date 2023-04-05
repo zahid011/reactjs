@@ -1,0 +1,16 @@
+.singleTodo {
+    border-radius: 50px;
+    margin: 10px 0;
+    background-color: lightgray;
+    padding: 8px 20px;
+    display: flex;
+    width: 400px;
+    align-items: center;
+    
+}
+
+.todo-container{
+    display: flex;
+    
+    
+}
